@@ -4,6 +4,7 @@ Sou Engenheiro de Computação com 9 anos de experiência em desenvolvimento de 
 - Equipamentos Laboratoriais e Hospitalares
 - Dispositivos Industriais
 - Dispositivos para Agricultura 4.0
+- Modernalização e Atualização de Hardware e Software
 
 ### Tecnologias Principais:
 - Linguagens de Programação: Java, C#, C/C++, Kotlin, Typescript
