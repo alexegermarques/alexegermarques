@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**alexegermarques/alexegermarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias Principais:
+- Linguagens de Programação: Java, C#, C/C++, Kotlin, Typescript
+- Frameworks: Spring Framework, .NetCore, Angular
+- Bancos de Dados: MySQL, PostgreSQL, Microsoft SQL Server, Oracle
+- Mensageria: RabbitMQ, IBM MQ
+- Contêineres e Orquestração: Docker, Kubernetes, Openshift
+- Cloud Computing: Google Cloud Platform (GCP), Amazon Web Services (AWS)
+- Infraestrutura como Código (IaC): Terraform
+- Desenvolvimento Mobile: Android
+- Microcontroladores: ESP32, STM32, Atmel 2560
+- Sistemas Operacionais: FreeRTOS
+- Softwares IHM: Unicview AD, Unicview Studio, QtCreator
+- Ferramentas: Intellij, Visual Studio, Jira, Confluence, Bitbucket
