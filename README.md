@@ -1,3 +1,10 @@
+Sou Engenheiro de Computação com 9 anos de experiência em desenvolvimento de softwares, sempre prezando em criar soluções robustas e de alta performance.
+
+### Projetos:
+- Equipamentos Laboratoriais e Hospitalares
+- Dispositivos Industriais
+- Dispositivos para Agricultura 4.0
+
 ### Tecnologias Principais:
 - Linguagens de Programação: Java, C#, C/C++, Kotlin, Typescript
 - Frameworks: Spring Framework, .NetCore, Angular
