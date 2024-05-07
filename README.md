@@ -8,6 +8,6 @@
 - Infraestrutura como Código (IaC): Terraform
 - Desenvolvimento Mobile: Android
 - Microcontroladores: ESP32, STM32, Atmel 2560
-- Sistemas Operacionais: FreeRTOS
+- Sistemas Operacionais: FreeRTOS, Linux, Windows CE, Android
 - Softwares IHM: Unicview AD, Unicview Studio, QtCreator
 - Ferramentas: Intellij, Visual Studio, Jira, Confluence, Bitbucket
