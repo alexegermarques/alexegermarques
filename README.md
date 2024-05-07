@@ -1,4 +1,4 @@
-Sou Engenheiro de Computação com 9 anos de experiência em desenvolvimento de softwares, sempre prezando em criar soluções robustas e de alta performance.
+Sou Engenheiro de Computação com 9 anos de experiência em desenvolvimento de softwares, sempre prezando em criar soluções robustas de alta performance e qualidade.
 
 ### Projetos:
 - Equipamentos Laboratoriais e Hospitalares
